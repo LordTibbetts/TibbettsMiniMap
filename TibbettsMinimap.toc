@@ -1,0 +1,17 @@
+## Interface: 30300, 30400, 40400
+## Title: Tibbetts Minimap
+## Notes: Release Build (Stable)
+## Author: Tibbetts
+## Version: 1.0.0
+## SavedVariables: TM_DB
+
+Core/Config.lua
+Core/Timer.lua
+
+Modules/ModuleManager.lua
+Modules/LayoutEngine.lua
+Modules/ButtonSystem.lua
+Modules/BuffSystem.lua
+
+UI/MainUI.lua
+UI/Slash.lua
